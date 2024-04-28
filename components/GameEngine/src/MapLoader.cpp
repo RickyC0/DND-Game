@@ -126,10 +126,4 @@ void MapLoader::Update(float deltaTime){}
 void MapLoader::Draw(float deltaTime) {}
 
 
-/**
- * @brief Calculates the size of the map texture based on the Input from the user.
- * @param x Width of the map.
- * @param y Height of the map.
- */
-
 
